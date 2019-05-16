@@ -1,0 +1,5 @@
+customerid;firstname;lastname;registerdate;discount
+1;Max;Muster;01.05.2010;5
+2;Adam;Bean;20.06.2011;10
+3;Lisa;Müller;08.08.2012;15
+4;Lischen;Müller;27.09.2013;20
